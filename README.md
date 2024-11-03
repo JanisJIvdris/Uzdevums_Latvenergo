@@ -37,7 +37,7 @@ This project is a **Real-Time Data Visualization** application that displays dat
 1. **Clone the Repository**:
 
    ```bash
-   git clone http-git-repo-link
+   git clone https://github.com/JanisJIvdris/Uzdevums_Latvenergo.git
 
    ```
 
